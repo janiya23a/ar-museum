@@ -3,7 +3,7 @@
 A marker-based AR scene built with A-Frame + AR.js. Point your phone camera at the Hiro marker to see a mini museum exhibit.
 
 ## Live demo
-https://YOUR-USERNAME.github.io/YOUR-REPO/
+https://janiya23a.github.io/ar-museum/
 
 ## How to use
 1. Open the live link on a phone (HTTPS, allow camera).
