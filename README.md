@@ -10,7 +10,7 @@ https://janiya23a.github.io/ar-museum/
 2. Show the Hiro marker: https://ar-js-org.github.io/AR.js/data/images/hiro.png
 3. Tap the ball to change its colour.
 4. Tap the orange box to grow / shrink it.
-5. Banner at the top turns green when the marker is found and red when lost.
+5. Banner at the top turns green when the marker is found and red when lost
 
 ## Features
 - Hiro marker scene: cylinder, box, sphere, torus, glTF model + `<a-text>` label
