@@ -6,7 +6,7 @@ A marker-based AR scene built with A-Frame + AR.js. Point your phone camera at t
 https://janiya23a.github.io/ar-museum/
 
 ## How to use
-1. Open the live link on a phone (HTTPS, allow camera).
+1. Open the live link on a phone (HTTPS, allow camera)
 2. Show the Hiro marker: https://ar-js-org.github.io/AR.js/data/images/hiro.png
 3. Tap the ball to change its colour.
 4. Tap the orange box to grow / shrink it.
